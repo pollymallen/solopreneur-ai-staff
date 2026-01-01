@@ -6,7 +6,7 @@ Build your AI staff with Claude Code. This repo contains everything you need to 
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/your-username/solopreneur-ai-staff.git
+   git clone https://github.com/pollymallen/solopreneur-ai-staff.git
    cd solopreneur-ai-staff
    ```
 
@@ -15,7 +15,7 @@ Build your AI staff with Claude Code. This repo contains everything you need to 
    claude
    ```
 
-3. **Follow the course** at [course-url] to build each agent
+3. **Follow the course** at [pollymallen.github.io/claude-code-for-solopreneurs](https://pollymallen.github.io/claude-code-for-solopreneurs) to build each agent
 
 ## What's Inside
 
